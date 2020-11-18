@@ -1,3 +1,7 @@
+# Branch with edits to original Jupyter notebooks from Python for Data Analysis, 2nd Edition
+
+Incl. notes from study group by PyLadies Stockholm
+
 # Python for Data Analysis, 2nd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
